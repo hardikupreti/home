@@ -15,7 +15,7 @@ Website: 	https://www.themesine.com/
 
 Changelog:
 -----------------------
-Version 1.0 14-05-2018
+Version 1.1 14-05-2018
 - initial release 
 
 
